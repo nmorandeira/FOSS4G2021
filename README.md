@@ -1,6 +1,6 @@
 # FOSS4G 2021
 
-Slides of the talk: 
+[Slides of the talk](https://nmorandeira.github.io/FOSS4G2021/) 
 
 _Monitoring active fires in the Lower Paraná River floodplain: Analysis and reproducible reports on satellite thermal hotspots_
 
